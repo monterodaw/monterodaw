@@ -4,7 +4,6 @@
 
 - 🎓 Soy estudiante de Desarrollo de Aplicaciones Web (DAW).
 - 💻 Me interesa el desarrollo web y la programación.
-- 🚀 Estoy aprendiendo a crear páginas web y gestionar proyectos con Git y GitHub.
 - 📚 Me gusta aprender nuevas tecnologías y mejorar mis habilidades.
 
 ## 🛠️ Tecnologías
